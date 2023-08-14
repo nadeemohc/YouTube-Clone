@@ -1,0 +1,16 @@
+.thumbnail{
+    border-radius: 10px;
+    width: 343.31px;
+    height: 193.11;
+    display: block;
+}
+.search-bar{
+    border-radius: 5px;
+    border: solid 1px rgb(211, 210, 210);
+}
+.video-title{
+    width: 300px;
+}
+.vid-1{
+    display: inline-block;
+}
