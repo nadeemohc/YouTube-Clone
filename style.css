@@ -7,6 +7,7 @@
 .search-bar{
     border-radius: 5px;
     border: solid 1px rgb(211, 210, 210);
+    display: block;
 }
 .video-title{
     width: 300px;
